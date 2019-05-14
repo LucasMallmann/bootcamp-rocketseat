@@ -25,3 +25,7 @@ Lista de Posts no formato do Facebook. Nesse projeto, foi construída uma aplica
 <p style="font-size: 16px;">
   Projeto desenvolvido em ReactJs que mostra a comparação entre os reposiorios que você desejar, comparando o número de stars, forks, quando foi o último commit. <a href="https://github.com/LucasMallmann/git-compare">Link para o respositório</a>
 </p>
+
+### Dev Location
+
+Aplicação para localização de desenvolvedores utilizando o Maps da Uber e a API do Github [Link](https://github.com/LucasMallmann/dev-location)
