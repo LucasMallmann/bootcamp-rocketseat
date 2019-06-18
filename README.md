@@ -8,24 +8,32 @@ Esses aqui são mes projetos. Sinta-se à vontade ;)
 
 ### Go Barber
 
-<p style="font-size: 16px;">Aplicação Web para agendamento de cortes de cabelo. <a href="https://github.com/LucasMallmann/go-node-module2">Link para o repositório</a></p>
+Aplicação Web para agendamento de cortes de cabelo.[Confira aqui](https://github.com/LucasMallmann/go-node-module2)
 
 ### Marketplace
 
-<p style="font-size: 16px;">API Rest para gerenciamento de um `marketplace`, ou um `e-commerce`.<a href="https://github.com/LucasMallmann/marketplace">Link para o repositório</a></p>
+API Rest para gerenciamento de um `marketplace`, ou um `e-commerce`.[Confira aqui](https://github.com/LucasMallmann/marketplace)
 
 ### RocketBook
 
-<p style="font-size: 16px;">
-Lista de Posts no formato do Facebook. Nesse projeto, foi construída uma aplicação em ReactJs, configurando o webpack e babel manualmente. <a href="https://github.com/LucasMallmann/go-react-module-1">Link para o repositório</a> 
-</p>
+Lista de Posts no formato do Facebook. Nesse projeto, foi construída uma aplicação em ReactJs, configurando o webpack e babel manualmente.[Confira aqui](https://github.com/LucasMallmann/go-react-module-1)
 
 ### GitCompare
 
-<p style="font-size: 16px;">
-  Projeto desenvolvido em ReactJs que mostra a comparação entre os reposiorios que você desejar, comparando o número de stars, forks, quando foi o último commit. <a href="https://github.com/LucasMallmann/git-compare">Link para o respositório</a>
-</p>
+Projeto desenvolvido em ReactJs que mostra a comparação entre os reposiorios que você desejar, comparando o número de stars, forks, quando foi o último commit. [Confira aqui](https://github.com/LucasMallmann/git-compare)
 
 ### Dev Location
 
-Aplicação para localização de desenvolvedores utilizando o Maps da Uber e a API do Github [Link](https://github.com/LucasMallmann/dev-location)
+Aplicação para localização de desenvolvedores utilizando o Maps da Uber e a API do Github [Confira](https://github.com/LucasMallmann/dev-location)
+
+### Githuber
+
+Aplicativo mobile para listagem de repositórios github de um Githuber ! [Confira](https://github.com/LucasMallmann/githuber)
+
+### Gitissues
+
+Aplicativo mobile para você monitar as issues do seu repositório favorito ;) [Confira aqui](https://github.com/LucasMallmann/gitissues)
+
+### Project Manager
+
+API feita em AdonisJS para gerenciamento de projetos! [Confira aqui](https://github.com/LucasMallmann/project-manager)
